@@ -76,7 +76,7 @@ README.md
 ## How to Run
 
 1. Open `final.Rproj` in RStudio.  
-2. Open `analysis/analysis.Rmd` and knit to generate results.  
+2. Open `analysis.Rmd` and knit to generate results.  
 3. Keep the raw dataset `data/WDS Project.xlsx` in the `data/` folder.
 
 ---
@@ -84,8 +84,7 @@ README.md
 ## References
 
 - FRED, OECD, Our World in Data, Numbeo, Transparency International, World Bank, N26, World Population Review  
-- Full citations are included in `report.html` and slides.
-
+- See [References](REFERENCES.md) for more detailed sources.
 ---
 
 **Note:** Rendered outputs in `report.html` may not knit perfectly on different machines due to package version differences. All code and preprocessing steps are reproducible via `analysis.Rmd`.
