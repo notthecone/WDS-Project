@@ -1,6 +1,6 @@
 # The Collapse of the American Dream: From "Rags to Riches" to the "Ragged and the Rich"
 
-**Capston Project — Wharton Global Youth Data Science Academy**  
+**Capstone Project — Wharton Global Youth Data Science Academy**  
 **Authors:** John Wu, Connie Lu, Smriti Vijay, Gwen Gao, Alvin Li  
 
 ---
